@@ -11,3 +11,8 @@ I used **Logistic Regression** to estimate the probability of high-risk mental h
 
 ## Key Technical Insight
 Unlike simple correlations, this model calculates **Odds Ratios**. For instance, the model identifies the "Multiplier Effect" when unemployment and divorce occur simultaneously.
+
+## Visualizing Risk Factors
+Below is the visualization of the predictive model, showing how divorce and unemployment significantly increase the probability of high-risk status.
+
+![Risk Analysis Plot](risk_analysis_plot.png)
